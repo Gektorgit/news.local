@@ -1,0 +1,60 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/workspace.xml
+backend/web/image/
+backend/web/js/
+backend/web/upload/
+frontend/web/upload/
+vendor/codeception/base/tests/data/claypit/tests/_output/
+vendor/codeception/base/tests/data/included/_log/
+vendor/codeception/base/tests/data/included/jazz/pianist/tests/_helpers/_generated/
+vendor/codeception/base/tests/data/included/jazz/pianist/tests/_log/
+vendor/codeception/base/tests/data/included/jazz/tests/_log/
+vendor/codeception/base/tests/data/included/shire/tests/_log/
+vendor/codeception/base/tests/data/included_w/src/bar/Sub/EwokPack/tests/_support/_generated/
+vendor/codeception/base/tests/data/included_w/src/bar/ToastPack/tests/_support/_generated/
+vendor/codeception/base/tests/data/included_w/src/foo/AcmePack/tests/_log/
+vendor/codeception/base/tests/data/included_w/src/foo/AcmePack/tests/_support/_generated/
+vendor/ezyang/htmlpurifier/plugins/phorum/htmlpurifier/
+vendor/temp/kcfinder/upload/.thumbs/
+vendor/temp/kcfinder/upload/images/
+vendor/wysiwygfiles/upload/file/
+vendor/wysiwygfiles/upload/flash/
+vendor/yiisoft/yii2/console/runtime/
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+# composer lock file
+composer.lock
